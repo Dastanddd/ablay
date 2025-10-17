@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(246, 243, 243);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+
+.ret{
+    width: 400px;
+    height: 550px;
+    background: rgb(255, 255, 255);
+    border-radius: 16px;
+    text-align: center;
+    padding: 0px;
+}
+
+.tyu{
+    background: hsla(206, 91%, 66%, 1);
+
+background: linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5ab2f7", endColorstr="#12cff3", GradientType=1 );
+    border-radius: 15px;
+}
+
+.ree{
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px 0px;
+}
+
+.vr{
+    font-size: 40px;
+    gap: 100px;
+}
+
+.typ{
+    width:350px;
+    height:50px;
+    background: hsla(206, 91%, 66%, 1);
+
+background: linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5ab2f7", endColorstr="#12cff3", GradientType=1 );
+border-radius: 27px;
+margin: 30px 0px 0px 30px;
+}
+
+.fe{
+    padding: 15px;
+}
+
